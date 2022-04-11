@@ -11,8 +11,8 @@ public class C01HelloWorld  // 클래스 영역 -객체 지향 구현단위
 	//사용자 정의 매서드(함수)  :프로그래머에 의해 제작되는 매서드ㅡ	
 	public static void main(String[] args) // main 매서드 영역 -절차지향 구현단위 
 	{
-		System.out.println("hello world");   // 콘솔 화면 출력 메서드(기본제공 출력메서드)
-		   // ; -세미콜론 :실핼ㅇ문의 마지막,마침표를의미 
+		System.out.println("hello world!");   // 콘솔 화면 출력 메서드(기본제공 출력메서드)
+		   // ; -세미콜론 :실행문의 마지막,마침표를의미 
 		
 	
 	}
